@@ -1,6 +1,6 @@
 ## Gulp Bootstrap Starter
 
-#### Get Started
+### Get Started
 
 Step 1: Clone this entire repo
 ```bash
@@ -22,7 +22,7 @@ Step 4: Run the example
 $ npm start
 ```
 
-#### Plugins
+### Plugins
 * gulp-sass
 * gulp-sourcemaps
 * browser-sync
