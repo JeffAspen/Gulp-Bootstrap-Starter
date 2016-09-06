@@ -1,0 +1,17 @@
+{
+  "name": "gulp.sass",
+  "version": "1.0.0",
+  "description": "Gulp, SASS & BrowserSync",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "JeffAspen",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.2.0",
+    "gulp": "^3.8.11",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
