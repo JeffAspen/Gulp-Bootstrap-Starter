@@ -2,7 +2,6 @@
 
 ### Plugins
 
-* gulp
 * gulp-sass
 * gulp-sourcemaps
 * browser-sync
